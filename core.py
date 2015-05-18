@@ -3,6 +3,9 @@ def ind_max(x):
   m = max(x)
   return x.index(m)
 
+# Plot library
+import matplotlib
+
 # Need access to random numbers
 import random
 
